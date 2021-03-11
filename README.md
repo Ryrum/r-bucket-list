@@ -4,4 +4,5 @@
 - Kurangi nonton video hiburan
 - Mencoba 1 resep baru per minggu
 - Update pengetahuan software terbaru
-- 
+- Menanam tanaman setiap hari
+- Belajar seo
