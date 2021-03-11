@@ -8,3 +8,4 @@
 - Belajar seo
 - Ikut lomba blog
 - buat branch
+- buat branch ke 3
