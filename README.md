@@ -7,3 +7,4 @@
 - Menanam tanaman minimal 2 jenis per minggu
 - Belajar seo
 - Ikut lomba blog
+- buat branch
