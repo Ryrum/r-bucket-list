@@ -4,5 +4,5 @@
 - Kurangi nonton video hiburan
 - Mencoba 1 resep baru per minggu
 - Update pengetahuan software terbaru
-- Menanam tanaman setiap hari
+- Menanam tanaman minimal 2 jenis per minggu
 - Belajar seo
